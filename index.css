@@ -1,0 +1,15 @@
+  /* light theme styles */
+  @media (prefers-color-scheme: light) {
+    body {
+      background-color: #fff;
+      color: #000;
+    }
+  }
+
+  /* dark theme styles */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #000;
+      color: #fff;
+    }
+  }
